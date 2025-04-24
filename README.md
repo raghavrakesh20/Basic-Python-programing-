@@ -1,2 +1,2 @@
-# Basic-Python-programing-
-Beginner level python practices
+# Python practice
+Python practice for Data Science
